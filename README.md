@@ -28,9 +28,6 @@
   <a href="https://codeforces.com/profile/ashish.adhikari" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%234A61D1.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://instagram.com/meg_ashish" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://facebook.com/eulerashish" target="_blank">
     <img src="https://img.shields.io/badge/FB%20Page-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Page" />
   </a>
