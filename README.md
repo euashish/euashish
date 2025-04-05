@@ -4,12 +4,12 @@
 <img width="100%" src="https://github.com/euashish/euashish/blob/main/resource/Banner.jpg?raw=true" alt="ashish_cover" />
 </div>
 <h1 align="center">Hi <img src = "https://github.com/euashish/euashish/blob/main/resource/HI.gif?raw=true" width="50px" height="50px">, I'm ASHISH</h1>
-<h3 align="center">A passionate front-end developer and open source contributor on GitHub.</h3>
+<h3 align="center">A passionate software developer and open source contributor on GitHub.</h3>
 <h5 align="center">
- I love building web applications, collaborating with developers, and contributing to meaningful open-source projects.
+ I love exploring software and their internal principles ; collaborating with developers and contributing to meaningful open-source projects.
 </h5>
 
-<h3 align="center">Currently I'm studying in Chemical Engineering and Polymer Science at Shahjalal University of Science and Technology</h3>
+<h3 align="center">Currently I'm studying in Chemical Engineering And Polymer Science at Shahjalal University Of Science And Technology</h3>
 
 <br>
 
@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/megashish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/megashish" target="_blank">
+  <a href="https://twitter.com/ashish" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.npmjs.com/~euashish" target="_blank">
@@ -28,10 +28,10 @@
   <a href="https://codeforces.com/profile/ashish.adhikari" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%234A61D1.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://facebook.com/euashish" target="_blank">
+  <a href="https://facebook.com/ashish" target="_blank">
     <img src="https://img.shields.io/badge/FB%20Page-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Page" />
   </a>
-  <a href="https://facebook.com/aeuler" target="_blank">
+  <a href="https://facebook.com/ashish" target="_blank">
     <img src="https://img.shields.io/badge/FB%20Profile-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile" />
   </a>
   <a href="https://www.youtube.com/c/ashish" target="_blank">
@@ -83,11 +83,11 @@ Here are some of my recent projects that showcase my skills and experience. More
 
 | Project Name                | Description                                | Live Link                                           | Source Code                                         |
 |-----------------------------|--------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/euashish/World-tour-by-react) |
-| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/euashish/BikerZone)   |
-| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/euashish/TeaHouse)    |
-| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/euashish/DaisyMan)    |
-| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/euashish/bap-er-bank-recap) |
+| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/euashish/) |
+| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/euashish/)   |
+| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/euashish)    |
+| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/euashish/)    |
+| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/euashish/) |
 
 </div>
 
