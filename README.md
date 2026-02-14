@@ -16,10 +16,10 @@
 <h3 align="center">Where to Find Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/megashish" target="_blank">
+  <a href="https://www.linkedin.com/in/euashish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/ashish" target="_blank">
+  <a href="https://x.com/ashish_oe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.npmjs.com/~euashish" target="_blank">
@@ -137,3 +137,4 @@ Here are some of my recent projects that showcase my skills and experience. More
 <div align="center">
    <img src="https://raw.githubusercontent.com/euashish/euashish/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg" alt="Waves" width="100%" />
 </div>
+
