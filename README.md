@@ -92,20 +92,6 @@ Here are some of my recent projects that showcase my skills and experience. More
 </div>
 
 <br>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euashish&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
-<br>
-
-<div align="center">
- 
-![ASHISH's GitHub stats](https://github-readme-stats.vercel.app/api?username=euashish&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euashish)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
 
 <div align="center">
    <h2 align="center">
